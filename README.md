@@ -1,4 +1,4 @@
-<h1> Organo LoL TypeScript </h1>
+<h1> Aluroni </h1> 
 
 ![Static Badge](https://img.shields.io/badge/Status-_Finalizado-green?style=for-the-badge)
 
@@ -17,6 +17,8 @@ O Aluroni é um site para mostrar os principais pratos que o restaurante possuí
 <hr>
 
 ## Resumo do projeto
+
+![logo](https://github.com/joaoplgaspar/aluroni/assets/130015259/736b5ac6-d8fd-479b-b37d-35ddac3a76b7)
 
 O Aluroni é um projeto React com Typescript de um curso Alura, se trata de um site para mostrar pratos de um restaurante e tratar cada prato dinamicamente de acordo com suas informações de categoria (massas, carnes, etc), com opções de filtragem, ordenação e busca.
 
