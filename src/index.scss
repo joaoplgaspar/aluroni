@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+@import 'styles/variaveis';
+
+body {
+  background-color: $cor-de-fundo;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: $fonte-padrao;
+}
