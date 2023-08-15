@@ -1,46 +1,47 @@
-# Getting Started with Create React App
+<h1> Organo LoL TypeScript </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Static Badge](https://img.shields.io/badge/Status-_Finalizado-green?style=for-the-badge)
 
-## Available Scripts
+O Aluroni é um site para mostrar os principais pratos que o restaurante possuí, com opções de pesquisa, filtro e ordenação.
 
-In the project directory, you can run:
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Aluroni**
+| :label: Tecnologias | react, typescript, html5, sass, javascript
+| :rocket: URL         | https://aluroni-lw98.vercel.app
 
-### `npm start`
+<hr>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Gif Aluroniscreen-capture](https://github.com/joaoplgaspar/aluroni/assets/130015259/cf704c3c-221d-45b0-8d8f-aabcacac56b6#vitrinedev)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<hr>
 
-### `npm test`
+## Resumo do projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O Aluroni é um projeto React com Typescript de um curso Alura, se trata de um site para mostrar pratos de um restaurante e tratar cada prato dinamicamente de acordo com suas informações de categoria (massas, carnes, etc), com opções de filtragem, ordenação e busca.
 
-### `npm run build`
+![Aluroni Gif Funcionalidades](https://github.com/joaoplgaspar/aluroni/assets/130015259/8302aa3d-79e6-41ca-a55a-4edb9f203fbc)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# :hammer: Funcionalidades do projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- `Funcionalidade 1`: Busca de pratos
+- `Funcionalidade 2`: Ordenar pratos
+- `Funcionalidade 3`: Filtrar pratos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ✔️ Técnicas e tecnologias utilizadas
+- ``React, TypeScript, HTML5, SASS, JAVASCRIPT``
+- ``Manipulação do estado do objeto``
+- ``Reset de estilos com normalize, breakpoints para media-queries, variaveis em sass``
+- ``Absolute imports``
+- ``Uso do pacote classNames``
+- ``SVGR``
+- ``Metódos de um array``
+- ``Uso dos hooks useState e useEffect``
+- ``Boas práticas com Type e Interface no TS``
+- ``Ciclo de vida de um componente``
 
-### `npm run eject`
+# 🛠️ Abrir e rodar o projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Utilize `npm install` dentro da pasta do projeto para baixar suas pendências**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+**A seguir `npm start` para iniciar o projeto**
